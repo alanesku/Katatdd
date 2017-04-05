@@ -2,5 +2,4 @@
 /katafizzbuzz/manifest.mf
 /katafizzbuzz/build.xml
 /katafizzbuzz/lib
-
-
+/katafizzbuzz/build/
